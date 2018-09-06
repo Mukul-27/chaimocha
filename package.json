@@ -1,0 +1,20 @@
+{
+  "name": "chaimocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "swagger-client": "^3.8.15",
+    "tape": "^4.9.1"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
